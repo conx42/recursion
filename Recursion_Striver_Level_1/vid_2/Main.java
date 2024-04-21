@@ -1,6 +1,12 @@
 /**
  * printing -> (1 to N) - Linearly
  * Without -> BackTracking
+ * i.e:- Print-line before recursion call.
+ * [actual thing is printing before recursion call]
+ * [
+ * when "recursion call is returning" we should not doing anything
+ * -> if we do something when "recursion call is returning" then that is known as "BACKTracking"
+ * ]
  */
 import java.util.*;
 public class Main{
